@@ -1,0 +1,20 @@
+{
+  "name": "random",
+  "version": "0.0.1",
+  "description": "generate random numbers",
+  "main": "random.js",
+  "scripts": {
+    "test": "node genrandint.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/OrnithOrtion/randomjs"
+  },
+  "keywords": [
+    "random",
+    "bash",
+    "gnu"
+  ],
+  "author": "Samuel ORTION",
+  "license": "SEE LICENSE file"
+}
