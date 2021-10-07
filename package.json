@@ -1,0 +1,20 @@
+{
+  "name": "random",
+  "version": "0.0.1",
+  "description": "generate random numbers",
+  "main": "random.js",
+  "scripts": {
+    "test": "node genrandint.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "."
+  },
+  "keywords": [
+    "random",
+    "bash",
+    "gnu"
+  ],
+  "author": "Samuel ORTION",
+  "license": "GPL-3.0-or-later"
+}
